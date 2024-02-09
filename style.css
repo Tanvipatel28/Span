@@ -1,0 +1,116 @@
+   body {
+       margin: 0;
+       padding: 0;
+
+   }
+   .top {
+         width: 98%;
+         height: 80px;
+         background-color: pink;
+         border: 1px solid grey;
+         border-radius: 5px;
+         padding-top: 10px;
+         margin-top: 10px;
+         margin-left: 12px;
+         text-align: center;
+         
+   }
+   .bottom {
+       width: 98%;
+       height: 470px;
+       background-color: pink;
+       border: 1px solid gray;
+       border-radius: 5px;
+       margin-left: 12px;
+       text-align: center;
+
+
+   }
+   .top1 {
+         width: 97%;
+         height: 42px; 
+         background-color: aqua;
+         border: 1px solid grey;
+         border-radius: 5px;
+         margin-left: 15px;
+         padding-bottom: 10px;
+         
+
+   }
+   .joke {
+        display: flex;
+        
+
+   }
+   .left {
+           width: 35%;
+           height: 430px;
+           background-color: aqua;
+           border: 1px solid grey;
+           border-radius: 5px;
+           margin-left: 4px;
+           margin-top: 14px;
+
+   }
+
+   .right{
+           width: 64%;
+           height: 430px;
+           background-color: aqua;
+           border: 1px solid grey;
+           border-radius: 5px;
+           margin-top: 14px;     
+
+   }
+   .me {
+                width: 98%;
+                height: 200px;
+                background-color: pink;
+                border: 1px solid grey;
+                border-radius: 5px;
+                margin-left: 6px;
+
+
+   }
+   .you {
+              width:98% ;
+              height:200px ;
+              background-color: pink;
+              border: 1px solid grey;
+              border-radius: 5px;
+              margin-left: 6px;
+
+
+   }
+   .most {
+           display: flex;
+
+   }
+   .span4 {
+            width: 49%;
+            height: 170px;
+            background-color: aqua;
+            border: 1px solid gray;
+            border-radius: 5px;
+            margin-left: 6px;
+            padding-bottom: 5px;
+
+
+   }
+   .span42 {
+             width: 49%;
+             height: 170px;
+             background-color: aqua;
+             border: 1px solid grey;
+             border-radius: 5px;
+             padding-bottom: 5px;
+  }
+   .lost {
+       width:98% ;
+       height: 150px;
+       background-color: aqua;
+       border: 1px solid grey;
+       border-radius: 5px;
+       margin-left: 6px;
+       margin-top: 22px;
+   }
